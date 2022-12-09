@@ -1,0 +1,30 @@
+// PSEUDOCODIGO
+
+1
+2
+AA A DE
+4 UT Queue();
+
+5 mark origen as visited
+
+(9 IDA
+
+Y while (!q.isEmpty())
+
+8
+
+ú
+9 NR TAO
+10 if(nodoActual==objetivo) return true;
+N for all neighbours w of nodoActual in Grafo 4
+M2 if w is not visited 4
+E // marcar visitado y pa la cola
+14 E NET!
+5 To lel (IDA
+1 y
+17, ,
+E y
+19 CIA
+
+LS
+
